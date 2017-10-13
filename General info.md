@@ -5,6 +5,6 @@ Simple, clean cut graphics and controls combine to give an easy learn but engagi
 ## Environment/User Community
 In remote warehouse located in Narai-Juku a small town of the Nagano Prefecture which is west of Tokyo. 
 ## test objectives
-
+test 
 ## acceptance criteria
 
